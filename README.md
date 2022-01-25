@@ -64,6 +64,14 @@
 <br/>  
 
 
+## Visit my website
+<a href="https://muhammed-shafeeque.github.io/shafeeque-portfolio/" target="_blank">
+  Muhammed Shafeeque AKP
+</a>
+
+<br/>  
+
+
 ## Connect with me  
 <a href="https://github.com/muhammed-shafeeque " target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
